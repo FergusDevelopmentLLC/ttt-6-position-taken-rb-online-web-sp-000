@@ -2,3 +2,8 @@
 def position_taken (board, index)
   puts board[index]
 end
+
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+index = 0
+
+position_taken?(board, index)
