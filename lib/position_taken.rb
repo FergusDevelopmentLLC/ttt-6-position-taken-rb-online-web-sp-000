@@ -7,4 +7,4 @@ end
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 index = 0
 
-position_taken(board, index)
+position_taken?(board, index)
